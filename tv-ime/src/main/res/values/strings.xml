@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TV 원격 동기화 키보드 (IME)</string>
+    <string name="ime_service_label">TV 모바일 연동 키보드</string>
+    <string name="subtype_ko">한국어 (모바일 연동)</string>
+    <string name="subtype_en">English (Mobile Sync)</string>
+</resources>
